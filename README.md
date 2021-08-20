@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raphaelcriar
-- 👀 I’m interested internship in the area of ​​analysis and software development.
+- 👀 I’m interested internship in the area of analysis and software development.
 - 🌱 I’m currently learning analysis and systems development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on sharing information about technology and learning.
 - 📫 How to reach me  -  raphaelcriar@gmail.com
 
 <!---
